@@ -84,6 +84,6 @@ python main.py
 
 ---
 
-screenshot:
+screenshot: ![Image](https://github.com/user-attachments/assets/43a3e55f-01ed-4765-881c-cf09b4a5678a)
 
 
