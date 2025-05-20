@@ -1,4 +1,4 @@
-#  simple minecraft-
+#  simple minecraft
 
 
 
